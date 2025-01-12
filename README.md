@@ -1,6 +1,6 @@
-# eu_qa_robot_framework
+# Robot Framework API
 
-Repositório destinado aos projetos desenvolvidos no canal Eu QA -> https://www.youtube.com/channel/UCx1kzYA8YXAoCIMpbZfLRbw
+Repositório destinado aos projetos desenvolvidos no canal Gustavo Machado QA -> https://www.youtube.com/channel/UCx1kzYA8YXAoCIMpbZfLRbw
 
 ## Este repositório contém os vídeos das seguintes playlist
 - Robot Framework básico - API

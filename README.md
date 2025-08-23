@@ -52,11 +52,10 @@
 ---
 
 ## 🌟 Destaques Profissionais
-- Estruturação de **pipelines robustos de QA** com foco em automação e rastreabilidade.  
 - Entregas de **APIs performáticas, seguras e sem regressões** em ambiente de alta criticidade (bancário).  
 - Redução de **retrabalho** através de validações precoces de requisitos.  
 - **Liderança de dailies** e mentoria de novos QAs em squads multidisciplinares.  
-- Participação ativa em **comunidades técnicas** (QA News, #Tester-na-prática).  
+- Participação ativa em **comunidade técnica** (QA News).  
 
 ---
 
@@ -68,10 +67,3 @@
 [linkedin-url]: https://www.linkedin.com/in/talissa-strazer/
 [github-shield]: https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white
 [github-url]: https://github.com/talissastrazer
-
----
-
-<!-- Estatísticas do GitHub -->
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=talissastrazer&show_icons=true&theme=radical" alt="Stats da Talissa" />
-</p>

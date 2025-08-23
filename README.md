@@ -1,14 +1,77 @@
-# Robot Framework API
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Olá,+sou+a+Talissa+Strazer!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-Repositório destinado aos projetos desenvolvidos no canal Gustavo Machado QA -> https://www.youtube.com/channel/UCx1kzYA8YXAoCIMpbZfLRbw
+# Olá, eu sou a Talissa Strazer! 👋
 
-## Este repositório contém os vídeos das seguintes playlist
-- Robot Framework básico - API
-    - https://www.youtube.com/watch?v=BgermFrsiYc&list=PLVQdoQTyi01i-2XS-YY0WtbrIFr7sryUb&ab_channel=EuQAGustavoMachado
-- Robot Framework básico
-    - https://www.youtube.com/watch?v=W7oeVoGuVS8&list=PLVQdoQTyi01i6poQTkmHuKaPv4LqREX6w&ab_channel=EuQAGustavoMachado
+**O que me motiva**: Garantir qualidade ponta a ponta em soluções digitais, desde o planejamento até a entrega, com foco em colaboração, eficiência e resultados consistentes.
 
-## Libraries utilizadas:
-    - https://robotframework.org/robotframework/latest/libraries/BuiltIn.html
-    - http://marketsquare.github.io/robotframework-requests/doc/RequestsLibrary.html
-    
+---
+
+## 🚀 Sobre mim
+- **Quality Engineer** com +3 anos de experiência em **projetos bancários** de grande porte.  
+- Atuação em **testes funcionais, exploratórios, regressivos e E2E**, com foco em rastreabilidade e prevenção de falhas.  
+- Experiência em **automação de testes de API** com **Java + Rest Assured** e **testes de carga com JMeter**.  
+- Vivência em ambientes ágeis (**Scrum e Kanban**), participação ativa em cerimônias e refinamentos.  
+- Experiência com **web, mobile, APIs, performance, acessibilidade e segurança**.  
+- Produção de conteúdo técnico e **mentoria de novos QAs**.  
+- Reconhecida com o prêmio **Rock Star Awards 2Q 2024 (IBM)** pela performance e protagonismo.  
+- Interesse em evoluir para posições de **Project Manager**, com foco em liderança colaborativa e entrega contínua de valor.  
+
+🎓 **Formação & Certificações**  
+- Pós-graduação em **Engenharia de Software com Metodologias Ágeis**  
+- Graduação em **Análise e Desenvolvimento de Sistemas**  
+- Graduação em **Gestão e Marketing**  
+- **Certificações:**  
+  - Microsoft **Azure Fundamentals (AZ-900)**  
+  - **IBM Agile Explorer**  
+  - **IBM Agile Advocate**  
+  - **Scrum Master (IBM)**  
+  - Trilhas internas em **API Testing** e **Agilidade**  
+
+🌍 **Idiomas**  
+- Português: Nativo  
+- Inglês: Intermediário (técnico e leitura em desenvolvimento)  
+
+---
+
+## 🛠️ Ferramentas & Tecnologias
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="40" height="40"/>
+</p>
+
+- **Automação:** Java + Rest Assured  
+- **Performance:** JMeter  
+- **Ferramentas:** Jira, Confluence, Swagger, Insomnia, Postman, Octane, Git, Jenkins, IntelliJ IDEA  
+- **Metodologias:** Scrum, Kanban, BDD, Agile Testing Quadrants  
+
+---
+
+## 🌟 Destaques Profissionais
+- Estruturação de **pipelines robustos de QA** com foco em automação e rastreabilidade.  
+- Entregas de **APIs performáticas, seguras e sem regressões** em ambiente de alta criticidade (bancário).  
+- Redução de **retrabalho** através de validações precoces de requisitos.  
+- **Liderança de dailies** e mentoria de novos QAs em squads multidisciplinares.  
+- Participação ativa em **comunidades técnicas** (QA News, #Tester-na-prática).  
+
+---
+
+## 📬 Conecte-se comigo
+[![LinkedIn][linkedin-shield]][linkedin-url]  
+[![GitHub][github-shield]][github-url]  
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/talissa-strazer/
+[github-shield]: https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white
+[github-url]: https://github.com/talissastrazer
+
+---
+
+<!-- Estatísticas do GitHub -->
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=talissastrazer&show_icons=true&theme=radical" alt="Stats da Talissa" />
+</p>

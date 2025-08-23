@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Ol%C3%A1%2C%20sou%20a%20{Seu%20Nome}!&animation=fadeIn&color=radial-gradient&fontColor=white&fontSize=60&height=140&type=neon"/>
+  <img src="https://capsule-render.vercel.app/api?text=Olá,+sou+a+Talissa+Strazer!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 # Olá, eu sou a Talissa Strazer! 👋

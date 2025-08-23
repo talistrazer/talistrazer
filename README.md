@@ -59,6 +59,14 @@
 
 ---
 
+## 📚 Meus Artigos Técnicos e Iniciativas de Qualidade
+
+Aqui compartilho conteúdos práticos, reflexões e projetos sobre **qualidade de software, testes e aprendizado contínuo**:
+
+- [🚀 Aprendizado Acelerado no QA](https://github.com/talistrazer/aprendizado-acelerado)  
+  Técnicas para aprender mais rápido e aplicar no dia a dia do QA — inspirado em música e metodologias de aprendizado autodirigido.  
+
+
 ## 📬 Conecte-se comigo
 [![LinkedIn][linkedin-shield]][linkedin-url]  
 [![GitHub][github-shield]][github-url]  

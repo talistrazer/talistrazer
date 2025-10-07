@@ -64,7 +64,13 @@
 Aqui compartilho conteúdos práticos, reflexões e projetos sobre **qualidade de software, testes e aprendizado contínuo**:
 
 - [🚀 Aprendizado Acelerado no QA](https://github.com/talistrazer/aprendizado-acelerado)  
-  Técnicas para aprender mais rápido e aplicar no dia a dia do QA — inspirado em música e metodologias de aprendizado autodirigido.  
+  Técnicas para aprender mais rápido e aplicar no dia a dia do QA — inspirado em música e metodologias de aprendizado autodirigido.
+- [🚀Pirâmide de Testes & Quadrante Ágil](https://github.com/talistrazer/test-pyramid-agile.git)
+  O objetivo é ajudar times de desenvolvimento e QA a estruturarem uma suíte de testes eficiente, equilibrando custo, velocidade e qualidade.
+- [🚀Teste de Caixa Branca ou Caixa Preta](https://github.com/talistrazer/teste-caixa-branca-ou-preta)
+  Esse artigo aborda uma das maiores dúvidas no mundo de testes e qualidade de software: Esse teste é caixa branca ou caixa preta?
+- [🚀Gestão de Testes com Mapas Mentais (MindMaps)](https://github.com/talistrazer/Criando-um-Mapa-Mental-MindMap-.git)
+   Em muitos projetos de QA, é comum perder a visibilidade sobre o que está sendo testado devido ao excesso de informações espalhadas em diferentes ferramentas.  
 
 
 ## 📬 Conecte-se comigo
